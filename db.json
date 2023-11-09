@@ -1,0 +1,28 @@
+{
+    "people": [
+        {
+            "id": "1",
+            "name": "Felix",
+            "gender": "Male",
+            "picture": null
+        },
+        {
+            "id": "2",
+            "name": "Tony",
+            "gender": "Male",
+            "picture": null
+        },
+        {
+            "id": "3",
+            "name": "Danyel",
+            "gender": "Female",
+            "picture": null
+        },
+        {
+            "id": "4",
+            "name": "Ken",
+            "gender": "Male",
+            "picture": null
+        }
+    ]
+}

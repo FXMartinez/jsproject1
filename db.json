@@ -2,25 +2,25 @@
     "people": [
         {
             "id": "1",
-            "name": "Felix",
+            "name": "Djinn",
             "gender": "Male",
             "picture": null
         },
         {
             "id": "2",
-            "name": "Tony",
+            "name": "Tonnee",
             "gender": "Male",
             "picture": null
         },
         {
             "id": "3",
-            "name": "Danyel",
+            "name": "Chazzy",
             "gender": "Female",
             "picture": null
         },
         {
             "id": "4",
-            "name": "Ken",
+            "name": "Kifd",
             "gender": "Male",
             "picture": null
         }

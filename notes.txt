@@ -1,0 +1,13 @@
+11/10/23
+more work needs to be done on understanding hoisting and how async works for the most part
+
+I failed quite a bit with the data fetch and attempting to have and access the information outside of the fetch
+to my understanding everything else around the fetch loads much faster than the fetch so if i want to work with
+the information i get from the fetch i have to use functions outside of (for readability mostly) and use them
+within the fetch.
+
+Having some trouble with css but that will be what I focus on last for the most part.
+
+need to look into type more, switched type='text/javascript' in the <script> tag of the html file to 
+type='module' for import functionality.
+
